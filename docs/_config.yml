@@ -22,7 +22,7 @@ title: My Blogs
 email: syahrudinsmj@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Kumpulan oret-oret seorang suami yang sedang belajar bahasa pemprograman.
-domain: smj-labs.github.io 
+domain: smj-labs.web.app 
 baseurl: "/blogs" # the subpath of your site, e.g. /blog
 url: "https://smj-labs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
