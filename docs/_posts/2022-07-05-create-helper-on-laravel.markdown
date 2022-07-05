@@ -48,7 +48,7 @@ categories: laravel
   }
 
   // didalam blade :
-  {{ App\Helpers\CustomHelpers::helloWorld() }};
+  App\Helpers\CustomHelpers::helloWorld();
 
   ```
 
